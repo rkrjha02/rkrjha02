@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rkrjha02&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/> 
-  <a href="https://github.com/rkrjha02?tab=followers"><img src="https://img.shields.io/github/followers/sachiinn05?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/rkrjha02?tab=followers"><img src="https://img.shields.io/github/followers/rkrjha02?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://github.com/rkrjha02?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"></a>
 </p>
 
@@ -43,12 +43,12 @@ Here’s what I have worked on:
 
 ### ✨ Dynamic GitHub Widgets
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachiinn05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rkrjha02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkrjha02&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinn05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkrjha02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 ---
