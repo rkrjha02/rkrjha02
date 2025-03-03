@@ -24,7 +24,7 @@
 
 ### 🛠 My Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,postman,git,github,C/C++" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,postman,git,github,cpp,fastapi" alt="Tech Stack Icons" />
 </div>
 
 ---
@@ -35,7 +35,7 @@ Here’s what I have worked on:
 | 🌟 *Project Name*                 | 💡 *Description*                                                                                    | 🚀 *Tech Stack*                            |
 |-----------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | *[CodioScope](#)*                 | Analyzes your coding performance with interactive charts.                                            | HTML, CSS, JavaScript, API                 |
-| *[SyncUp](#)*                     | Real-time video conferencing web app that facilitate seamless video audio communication.             | WebRTC, Socket IO, Node JS, Express.js     |
+| *[Nexameet](#)*                     | Real-time video conferencing web app that facilitate seamless video audio communication.             | WebRTC, Socket IO, Node JS, Express.js     |
 | *[LeetCode Rating Predictor](#)*  | A tool that used to predict users' new ratings based on their performance metrics.                   | Python, Streamlit, Pandas                  |
 
 
